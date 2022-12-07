@@ -35,7 +35,7 @@
     "aws-sdk": "^2.513.0",
     "jest": "^24.9.0",
     "kinesalite": "^2.0.3",
-    "serverless": "^1.51.0",
+    "serverless": "^3.25.1",
     "serverless-dotenv-plugin": "^2.1.1",
     "serverless-dynamodb-local": "^0.2.38",
     "serverless-offline": "^5.10.1",
